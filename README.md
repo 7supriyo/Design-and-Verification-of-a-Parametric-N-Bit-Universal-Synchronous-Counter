@@ -90,6 +90,3 @@ gtkwave counter_wave.vcd
 
 ---
 
-## License
-
-This repository is open-source, provided for educational and research purposes.
